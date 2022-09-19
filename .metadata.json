@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "duawranglr",
-    "oncran": true
-  },
-  {
     "package": "rscorecard",
     "oncran": true
   }

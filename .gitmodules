@@ -8,11 +8,6 @@
 	url = https://github.com/btskinner/crosswalkr
 	shallow = true
 	registered = true
-[submodule "duawranglr"]
-	path = duawranglr
-	url = https://github.com/btskinner/duawranglr
-	shallow = true
-	registered = true
 [submodule "rscorecard"]
 	path = rscorecard
 	url = https://github.com/btskinner/rscorecard
