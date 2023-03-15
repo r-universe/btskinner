@@ -1,14 +1,14 @@
 [
   {
-    "package": "crosswalkr",
-    "oncran": true
-  },
-  {
     "package": "duawranglr",
     "oncran": true
   },
   {
     "package": "rscorecard",
+    "oncran": true
+  },
+  {
+    "package": "crosswalkr",
     "oncran": true
   }
 ]
