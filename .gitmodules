@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "crosswalkr"]
+	path = crosswalkr
+	url = https://github.com/btskinner/crosswalkr
+	shallow = true
+	registered = true
 [submodule "duawranglr"]
 	path = duawranglr
 	url = https://github.com/btskinner/duawranglr
@@ -11,10 +16,5 @@
 [submodule "rscorecard"]
 	path = rscorecard
 	url = https://github.com/btskinner/rscorecard
-	shallow = true
-	registered = true
-[submodule "crosswalkr"]
-	path = crosswalkr
-	url = https://github.com/btskinner/crosswalkr
 	shallow = true
 	registered = true
